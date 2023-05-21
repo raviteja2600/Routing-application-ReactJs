@@ -1,0 +1,32 @@
+.nav-container {
+  display: flex;
+  align-items: center;
+}
+.logo-container {
+  display: flex;
+  align-items: center;
+  margin-right: auto;
+}
+.logo {
+  height: 18px;
+}
+.wave {
+  font-family: 'Roboto';
+  font-size: 13px;
+  font-weight: 500;
+  color: #12022f;
+  margin-left: 5px;
+}
+.nav-links-container {
+  display: flex;
+  list-style-type: none;
+  margin: 0px;
+  padding: 0px;
+}
+.nav-link {
+  font-family: 'Roboto';
+  font-size: 13px;
+  font-weight: 500;
+  color: #12022f;
+  margin-right: 10px;
+}

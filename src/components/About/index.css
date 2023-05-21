@@ -1,0 +1,17 @@
+.image {
+  height: 90px;
+  margin-bottom: 0px;
+}
+.about {
+  font-family: 'Roboto';
+  font-size: 25px;
+  font-weight: 500;
+  color: #551e53;
+  margin-top: 0px;
+  margin-top: 10px;
+}
+.description {
+  font-family: 'Roboto';
+  font-size: 15px;
+  color: #555555;
+}
